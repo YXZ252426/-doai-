@@ -1,0 +1,1 @@
+class用法![image-20231209162909201](C:\Users\叶xz\AppData\Roaming\Typora\typora-user-images\image-20231209162909201.png)
